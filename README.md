@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Su-hey-b</h1>
-<h3 align="center">Sec+, Student of Knowledge, Analyst</h3>
+<h2 align="center">Sec+, Student of Knowledge, Analyst</h2>
 
 - Powershell **Active Directory Bulk User Creation**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 </p>
 
